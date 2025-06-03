@@ -103,12 +103,6 @@ app.use(morgan('combined'));
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
 ## 👨‍💻 Author
 
 **Naveen Kumar J**
